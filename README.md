@@ -1,8 +1,8 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 12 de Janeiro de 2026
-Empresa: Flor da Terra Farmácia 
-Responsável: João Lucas Gomes
+| Data: 12 de Janeiro de 2026 |
+Empresa: Flor da Terra Farmácia |
+Responsável: João Lucas Gomes |
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Flor da Terra Farmácia, realizado por João Lucas. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos, otimizar processos operacionais e garantir a segurança financeira do negócio.
